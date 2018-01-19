@@ -17,7 +17,7 @@ DEP[0]=md-addins
 DEP_NAME[0]=MDADDINS
 DEP_PATH[0]=${top_srcdir}/../md-addins
 DEP_MODULE[0]=git@github.com:xamarin/md-addins.git
-DEP_NEEDED_VERSION[0]=b8d4bc5ef42ceb64b528a6ff5f3224936ce5cead
+DEP_NEEDED_VERSION[0]=624ae3fbae94529d445ef7cebe2c544f4703b8eb
 DEP_BRANCH_AND_REMOTE[0]="static-registrar-support origin/static-registrar-support"
 
 # heap-shot
